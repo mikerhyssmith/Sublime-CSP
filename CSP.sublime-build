@@ -1,0 +1,11 @@
+{
+	"cmd": ["checker", "$file"],
+
+
+	 "variants": [
+
+      { "cmd": ["probe", "$file"],
+        "name": "Run probe"
+      }
+     ]
+}

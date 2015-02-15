@@ -1,0 +1,1 @@
+{ "keys": ["ctrl+shift+r"], "command": "build", "args": {"variant": "Run probe"}}
